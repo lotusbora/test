@@ -16,6 +16,7 @@
 @property (nonatomic, strong) IBOutlet UILabel *speedLabel;
 
 -(IBAction)toggleAction:(id)sender;
+
 -(IBAction)changeSpeedAction:(id)sender;
 
 @end

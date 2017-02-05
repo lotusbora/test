@@ -37,6 +37,7 @@
     [UIImage imageNamed:@"15.jpg"], nil];
                            
     imgView.animationImages = cuteImages;
+    
     imgView.animationDuration = 15.0;
    }
 
